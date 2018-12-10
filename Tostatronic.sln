@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tostatronic.Android", "Tostatronic\Tostatronic.Android\Tostatronic.Android.csproj", "{C0BBAA63-EBE8-40CF-BA65-5E25599ACD9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tostatronic", "Tostatronic\Tostatronic\Tostatronic.csproj", "{B96C71D5-7202-4822-B975-8F1535D736DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0BBAA63-EBE8-40CF-BA65-5E25599ACD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BBAA63-EBE8-40CF-BA65-5E25599ACD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BBAA63-EBE8-40CF-BA65-5E25599ACD9B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C0BBAA63-EBE8-40CF-BA65-5E25599ACD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BBAA63-EBE8-40CF-BA65-5E25599ACD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BBAA63-EBE8-40CF-BA65-5E25599ACD9B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B96C71D5-7202-4822-B975-8F1535D736DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96C71D5-7202-4822-B975-8F1535D736DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96C71D5-7202-4822-B975-8F1535D736DB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B96C71D5-7202-4822-B975-8F1535D736DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96C71D5-7202-4822-B975-8F1535D736DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96C71D5-7202-4822-B975-8F1535D736DB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {059B46B0-4F24-45CE-B72D-F808BA02B10E}
+	EndGlobalSection
+EndGlobal
